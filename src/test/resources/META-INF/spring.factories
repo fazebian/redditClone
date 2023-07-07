@@ -1,0 +1,3 @@
+org.springframework.test.context.ContextCustomizerFactory=\
+com.sahia.reddit.config.SqlTestContainersSpringContextCustomizerFactory,\
+com.sahia.reddit.config.TestContainersSpringContextCustomizerFactory
